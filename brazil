@@ -1,0 +1,966 @@
+[
+    {
+        "afid": "5cac26f5-14a4-4db8-8047-02d05a33d617",
+        "region": "BR"
+    },
+    {
+        "afid": "2926010e-339f-46dc-8d68-6d779a643c7b",
+        "region": "BR"
+    },
+    {
+        "afid": "1188fa80-63a1-4bd7-b008-8bea839102e0",
+        "region": "BR"
+    },
+    {
+        "afid": "94eb2119-6682-43ec-b35e-008c68b85b81",
+        "region": "BR"
+    },
+    {
+        "afid": "ebfd603f-fbf3-42b9-8842-da3de32a920d",
+        "region": "BR"
+    },
+    {
+        "afid": "5f2cf650-9291-4681-a2ee-b9cd674edbcf",
+        "region": "BR"
+    },
+    {
+        "afid": "c1503cf9-415e-458d-a816-8edda02f43c2",
+        "region": "BR"
+    },
+    {
+        "afid": "a5071eab-b0f9-40ba-b2b2-3b30fdf4eb00",
+        "region": "BR"
+    },
+    {
+        "afid": "fda712fd-7883-4404-b071-16fc949f9d2f",
+        "region": "BR"
+    },
+    {
+        "afid": "014895ec-1eec-4b9b-a42b-21d1ad547150",
+        "region": "BR"
+    },
+    {
+        "afid": "a78cabc0-2c32-42b8-896c-b327f60b183a",
+        "region": "BR"
+    },
+    {
+        "afid": "00000000-0000-0000-0000-000000000000",
+        "region": "BR"
+    },
+    {
+        "afid": "edef5974-b438-4bf3-8890-998e657e231f",
+        "region": "BR"
+    },
+    {
+        "afid": "adb8465b-0cff-4407-867c-f67654bffc93",
+        "region": "BR"
+    },
+    {
+        "afid": "cfddb5de-c711-4b40-8d13-ccdcee5ec19e",
+        "region": "BR"
+    },
+    {
+        "afid": "412abbbd-59ca-4a7b-ba06-2f758eb969ae",
+        "region": "BR"
+    },
+    {
+        "afid": "2342c275-2de0-4983-aacb-ea9f63aacea3",
+        "region": "BR"
+    },
+    {
+        "afid": "5ade086c-7305-445d-9be7-ce4af1e6d1d4",
+        "region": "BR"
+    },
+    {
+        "afid": "aa44f083-3963-459e-9088-55f48d445193",
+        "region": "BR"
+    },
+    {
+        "afid": "f1d789c9-588a-45c1-b0cd-cb523e6c5ef8",
+        "region": "BR"
+    },
+    {
+        "afid": "ca95a8c9-a35e-4c7e-bf7d-831c8d81bfce",
+        "region": "BR"
+    },
+    {
+        "afid": "5a0fc7ad-418c-4136-883a-b0b57e8b3ae3",
+        "region": "BR"
+    },
+    {
+        "afid": "f73c46c9-3200-4ed7-bd34-8f49ad2532a0",
+        "region": "BR"
+    },
+    {
+        "afid": "90357e5e-52fd-45bf-accd-95e3bea20339",
+        "region": "BR"
+    },
+    {
+        "afid": "f0823175-27b8-438e-8df1-ea567b05c40c",
+        "region": "BR"
+    },
+    {
+        "afid": "a9407092-3efc-43ba-8919-4c0217d68f3f",
+        "region": "BR"
+    },
+    {
+        "afid": "1137f8c1-bfc5-4c57-afef-7c0a001764fe",
+        "region": "BR"
+    },
+    {
+        "afid": "6fb2510e-97c0-4f73-8190-8348a526bb3e",
+        "region": "BR"
+    },
+    {
+        "afid": "e57637a1-f07a-49b2-8c67-e35df9723f81",
+        "region": "BR"
+    },
+    {
+        "afid": "15cf0661-b051-4bfc-bd2e-6934af7224ed",
+        "region": "BR"
+    },
+    {
+        "afid": "22379ed8-22d3-434f-b577-84555e1355af",
+        "region": "BR"
+    },
+    {
+        "afid": "6ac09dc6-b0e0-4cb8-9833-562098671fe2",
+        "region": "BR"
+    },
+    {
+        "afid": "37eb2cc4-956e-43a5-8897-59373d659123",
+        "region": "BR"
+    },
+    {
+        "afid": "8d41bda2-aa29-433f-b15c-88b486beada4",
+        "region": "BR"
+    },
+    {
+        "afid": "5a5b3362-0c39-4f4c-bec3-e7db29cfe45d",
+        "region": "BR"
+    },
+    {
+        "afid": "4eadc0a6-19fe-4b65-8822-8d4844d63218",
+        "region": "BR"
+    },
+    {
+        "afid": "c5cec796-cfde-46f6-b38c-6ae17d9c890a",
+        "region": "BR"
+    },
+    {
+        "afid": "e3d34f08-7090-4a6e-9e7e-f12b034c87b4",
+        "region": "BR"
+    },
+    {
+        "afid": "ba0b6618-64a5-4e99-b7c5-3fdfa9438d82",
+        "region": "BR"
+    },
+    {
+        "afid": "71d98f1f-ac94-4872-8e33-a0369f6628d1",
+        "region": "BR"
+    },
+    {
+        "afid": "85c0d893-c8e6-4619-8132-0d8549b93904",
+        "region": "BR"
+    },
+    {
+        "afid": "6ee7d1f5-b3b9-4d20-aa1a-a9a13097d1f0",
+        "region": "BR"
+    },
+    {
+        "afid": "e5bcfdcb-5e83-41fe-9e6a-ca14d1a73f19",
+        "region": "BR"
+    },
+    {
+        "afid": "3e3f77ef-4e1d-465d-bab1-ade7d69025cc",
+        "region": "BR"
+    },
+    {
+        "afid": "ed795366-a32e-4c09-8800-1c0317c5b662",
+        "region": "BR"
+    },
+    {
+        "afid": "94801188-b1ba-4058-b14c-0deb07928164",
+        "region": "BR"
+    },
+    {
+        "afid": "5aa69ceb-fcd8-40e2-b983-8cac4d46b8e9",
+        "region": "BR"
+    },
+    {
+        "afid": "d9b357dc-aeb5-4978-941d-1b1614a2fd4e",
+        "region": "BR"
+    },
+    {
+        "afid": "cc0ac0ab-7272-41f5-9398-5a1f37fa45fa",
+        "region": "BR"
+    },
+    {
+        "afid": "a758ef2a-6ceb-459d-a649-38b947b60f69",
+        "region": "BR"
+    },
+    {
+        "afid": "930fddfd-a895-43d8-9a84-49fb4f3314ec",
+        "region": "BR"
+    },
+    {
+        "afid": "2fd0f4d2-9018-4a09-86c0-70aceebd89e6",
+        "region": "BR"
+    },
+    {
+        "afid": "9afbeecb-0ad2-4a44-898a-11fd1bbad906",
+        "region": "BR"
+    },
+    {
+        "afid": "af0ff6c1-456c-4737-a18e-7b89d712488a",
+        "region": "BR"
+    },
+    {
+        "afid": "1d462290-488a-41d6-9f3b-472da3252cc4",
+        "region": "BR"
+    },
+    {
+        "afid": "7fcb151c-e9e0-46e9-9dc3-769b3f355d54",
+        "region": "BR"
+    },
+    {
+        "afid": "ab05a7c2-22fb-4644-bebe-4fcfecdc4590",
+        "region": "BR"
+    },
+    {
+        "afid": "2214b43d-42e2-45c2-86b6-3386a5778757",
+        "region": "BR"
+    },
+    {
+        "afid": "98d9f689-245f-4b05-963f-23958e0e312e",
+        "region": "BR"
+    },
+    {
+        "afid": "e3b392ea-bd63-43e5-9898-f6d7f250ec01",
+        "region": "BR"
+    },
+    {
+        "afid": "136b4751-ccee-44f2-865d-d4aed6b97907",
+        "region": "BR"
+    },
+    {
+        "afid": "eecc4b46-c254-40e1-aa2e-a44a41183d85",
+        "region": "BR"
+    },
+    {
+        "afid": "ee143e25-aace-43d9-926c-7cc4c436f6ca",
+        "region": "BR"
+    },
+    {
+        "afid": "032e39eb-902d-48b9-a80e-2af7dec9684c",
+        "region": "BR"
+    },
+    {
+        "afid": "0656e749-9b6b-4fb6-b1bc-130f54f4de09",
+        "region": "BR"
+    },
+    {
+        "afid": "986cab85-c19e-42b4-86bb-d922ca5902f4",
+        "region": "BR"
+    },
+    {
+        "afid": "6e527edb-74b8-45e4-877d-18b647beaef8",
+        "region": "BR"
+    },
+    {
+        "afid": "6f4f16c9-6160-4f35-b722-d9352140af85",
+        "region": "BR"
+    },
+    {
+        "afid": "5d4e3609-9226-474f-8124-6e2640ef852a",
+        "region": "BR"
+    },
+    {
+        "afid": "01bb8d68-f9fa-4aac-812f-284cfd6e212e",
+        "region": "BR"
+    },
+    {
+        "afid": "4a9cb33f-54d3-4016-a466-ae90cb7eb536",
+        "region": "BR"
+    },
+    {
+        "afid": "bffdbc57-559a-420f-9db6-b3032278a386",
+        "region": "BR"
+    },
+    {
+        "afid": "2288d50b-9291-47bc-ac7c-e18d54f0e01e",
+        "region": "BR"
+    },
+    {
+        "afid": "bbd9adb6-ee7d-47da-85c2-e5db702bcfb4",
+        "region": "BR"
+    },
+    {
+        "afid": "27993bf4-bb82-44e3-9287-8b76ebe5c518",
+        "region": "BR"
+    },
+    {
+        "afid": "1cf3e7f5-3442-4499-9d23-efdae53abadd",
+        "region": "BR"
+    },
+    {
+        "afid": "6af8fffc-c732-47f9-9065-7ad438ab2764",
+        "region": "BR"
+    },
+    {
+        "afid": "c30435e9-bfcb-497e-a65f-3fdd64832bca",
+        "region": "BR"
+    },
+    {
+        "afid": "9ec6b3f5-abc4-47bd-9704-69593d094dd3",
+        "region": "BR"
+    },
+    {
+        "afid": "f0f7f41d-e26e-4e7a-978f-520d23536799",
+        "region": "BR"
+    },
+    {
+        "afid": "f16d5400-228e-4710-97b7-af10fcb23464",
+        "region": "BR"
+    },
+    {
+        "afid": "c0ffbcec-cf14-4bcd-8137-b008db3ecb11",
+        "region": "BR"
+    },
+    {
+        "afid": "20335f96-62b4-423e-a9d1-7d58416bcda3",
+        "region": "BR"
+    },
+    {
+        "afid": "2fa85362-4038-447f-a260-8f3994d26445",
+        "region": "BR"
+    },
+    {
+        "afid": "a416d99d-00e0-47ad-99ec-f217faa95d14",
+        "region": "BR"
+    },
+    {
+        "afid": "9bb1c314-f549-4e62-9230-c8e371e24ffb",
+        "region": "BR"
+    },
+    {
+        "afid": "0f6b917b-676d-48a5-a3a6-be5bb0f5c449",
+        "region": "BR"
+    },
+    {
+        "afid": "fab5e67b-3a9a-4737-bf14-57a733839b24",
+        "region": "BR"
+    },
+    {
+        "afid": "699e1bef-3dd9-40e0-9d77-d9367a0548c5",
+        "region": "BR"
+    },
+    {
+        "afid": "593b3c9b-1164-4154-893e-d53a1d38feff",
+        "region": "BR"
+    },
+    {
+        "afid": "c59c3a8d-844e-41fc-a154-a09169c8d870",
+        "region": "BR"
+    },
+    {
+        "afid": "c6adcb97-628b-4f5e-8531-b388a5678426",
+        "region": "BR"
+    },
+    {
+        "afid": "07ac8bf1-5232-481f-9e91-9dc325e514b7",
+        "region": "BR"
+    },
+    {
+        "afid": "4f87b183-67a0-4661-8555-6745373cae53",
+        "region": "BR"
+    },
+    {
+        "afid": "c35fab80-7906-41af-b13a-81d7c8a55014",
+        "region": "BR"
+    },
+    {
+        "afid": "8a9e61ea-d645-49fd-9924-30869eda9637",
+        "region": "BR"
+    },
+    {
+        "afid": "50f1f364-47f7-4cf3-bc21-15bcc176bc4a",
+        "region": "BR"
+    },
+    {
+        "afid": "30b0fe05-21cb-44cd-96d8-90198dc71397",
+        "region": "BR"
+    },
+    {
+        "afid": "1ef7a235-6d90-433e-b448-09a7f33c5ba6",
+        "region": "BR"
+    },
+    {
+        "afid": "a92a8d15-a930-4eae-a358-60367481e4b9",
+        "region": "BR"
+    },
+    {
+        "afid": "0f66d4dc-eea1-4af5-8764-77240375fc57",
+        "region": "BR"
+    },
+    {
+        "afid": "0351fe25-c646-47e2-b370-64cf45a130e7",
+        "region": "BR"
+    },
+    {
+        "afid": "fcdf79f9-38fa-4b6a-a5ad-7aa2590d1101",
+        "region": "BR"
+    },
+    {
+        "afid": "1df6e575-54f1-4077-8a8b-10dace3df23c",
+        "region": "BR"
+    },
+    {
+        "afid": "9b93890e-7ff5-4185-be9c-646e92e21527",
+        "region": "BR"
+    },
+    {
+        "afid": "6b2dbce2-8fa3-4d17-ae17-f8b624312f02",
+        "region": "BR"
+    },
+    {
+        "afid": "ac449ecd-b4ad-4a36-8cb5-6cd566912c1a",
+        "region": "BR"
+    },
+    {
+        "afid": "8191cf12-56d9-425e-a204-134c7c11d65a",
+        "region": "BR"
+    },
+    {
+        "afid": "558d867f-c4ad-42a4-a6de-a3e96fb6764e",
+        "region": "BR"
+    },
+    {
+        "afid": "19c65030-733d-431e-9f89-994018edd058",
+        "region": "BR"
+    },
+    {
+        "afid": "16dbba3f-11a7-412e-b067-c539194683f4",
+        "region": "BR"
+    },
+    {
+        "afid": "5292fe4a-4972-44ee-ab3b-88239e7e0f8d",
+        "region": "BR"
+    },
+    {
+        "afid": "0f96c018-e0fc-4b46-89cc-9b85c0eac122",
+        "region": "BR"
+    },
+    {
+        "afid": "f84d8371-4598-4e23-86b2-7af69a778ebf",
+        "region": "BR"
+    },
+    {
+        "afid": "59e66489-2e90-4798-9f0d-599ec71f39c0",
+        "region": "BR"
+    },
+    {
+        "afid": "0bd80acb-a921-4c75-9a95-0869feb5c9a5",
+        "region": "BR"
+    },
+    {
+        "afid": "61202fb8-c2f1-4a8d-a84e-ebb34a9ce7b0",
+        "region": "BR"
+    },
+    {
+        "afid": "9b110c00-5722-403b-b8fb-a23a40a4b434",
+        "region": "BR"
+    },
+    {
+        "afid": "ccd70a0f-a80f-4eec-ac80-a1bc0604b054",
+        "region": "BR"
+    },
+    {
+        "afid": "9a1340a2-e976-4a53-9aca-498eec46e072",
+        "region": "BR"
+    },
+    {
+        "afid": "73f7793e-5ebc-4c2c-adb6-c6b9f1260aa1",
+        "region": "BR"
+    },
+    {
+        "afid": "3e47294c-9edd-4614-bf34-be1f4c532cda",
+        "region": "BR"
+    },
+    {
+        "afid": "7ef79510-8e05-45b7-b50f-c811b9a4f8e7",
+        "region": "BR"
+    },
+    {
+        "afid": "b47cfd93-26a6-42a1-9fe0-0a852dd6e6bf",
+        "region": "BR"
+    },
+    {
+        "afid": "f37d0b92-8377-4cce-9cad-2993c6fee898",
+        "region": "BR"
+    },
+    {
+        "afid": "aba6f491-3690-4bfc-ba13-4dc5e791df96",
+        "region": "BR"
+    },
+    {
+        "afid": "f8757e88-4ce3-4f14-81d4-771265ab8f80",
+        "region": "BR"
+    },
+    {
+        "afid": "fa24a573-b5c6-42ab-9bf6-066ba0118bf0",
+        "region": "BR"
+    },
+    {
+        "afid": "cf94ab87-b33c-4935-aa22-4150c2841960",
+        "region": "BR"
+    },
+    {
+        "afid": "fb5e11cc-3e7f-4cce-9f5a-ada1395044aa",
+        "region": "BR"
+    },
+    {
+        "afid": "7b8dbc15-c4a4-42d7-8ae7-e451d45aa9c7",
+        "region": "BR"
+    },
+    {
+        "afid": "a3634b45-cb74-4740-89c5-47551b63b72f",
+        "region": "BR"
+    },
+    {
+        "afid": "3bb44ddd-d5ea-4ff5-887c-2362259355f1",
+        "region": "BR"
+    },
+    {
+        "afid": "a723ec5e-e302-476d-b8ac-8403c5d6e33a",
+        "region": "BR"
+    },
+    {
+        "afid": "7c6c6ce4-f9f9-4fbb-8b8f-6368438f94e8",
+        "region": "BR"
+    },
+    {
+        "afid": "1d263bc7-5cc6-4682-a7ce-e6de235d8015",
+        "region": "BR"
+    },
+    {
+        "afid": "ab663f6b-8136-43f3-8cb0-ddc536f62a02",
+        "region": "BR"
+    },
+    {
+        "afid": "fcef3e0f-ba0a-4436-b742-b05ce4d15e9c",
+        "region": "BR"
+    },
+    {
+        "afid": "9edd5d30-9a83-4f04-ab40-33200d5ebc83",
+        "region": "BR"
+    },
+    {
+        "afid": "eb4849d4-20e3-4423-9d33-d47190b10485",
+        "region": "BR"
+    },
+    {
+        "afid": "61d934ab-398a-4052-8fd7-eead3871f8a4",
+        "region": "BR"
+    },
+    {
+        "afid": "4e051dcf-7642-4536-afb6-ca160eadcf23",
+        "region": "BR"
+    },
+    {
+        "afid": "6fdb283b-50ab-4d19-b446-ff5c3d8be318",
+        "region": "BR"
+    },
+    {
+        "afid": "2fcf15e6-0a33-46be-a88d-692e6a8e9f7a",
+        "region": "BR"
+    },
+    {
+        "afid": "d5601671-86f6-4a2e-b094-faa2b81f4920",
+        "region": "BR"
+    },
+    {
+        "afid": "6519a07f-95a6-4185-bba0-8922c5a52f97",
+        "region": "BR"
+    },
+    {
+        "afid": "e1d79863-19b0-4eb7-8d97-20085e8dee42",
+        "region": "BR"
+    },
+    {
+        "afid": "24eff4bf-ade1-405c-a448-b1f3ffdd1835",
+        "region": "BR"
+    },
+    {
+        "afid": "f9fdedbe-27b4-4c34-9f6a-13a6b1ec8df3",
+        "region": "BR"
+    },
+    {
+        "afid": "73d3c158-3255-49f0-bce7-186f78d16a21",
+        "region": "BR"
+    },
+    {
+        "afid": "a9ef6a14-5f61-4e98-a238-f87da630f6e8",
+        "region": "BR"
+    },
+    {
+        "afid": "d823980b-15c1-46f4-943c-e61564d93c82",
+        "region": "BR"
+    },
+    {
+        "afid": "ca939f1b-b34e-428f-9b18-786f54a467ea",
+        "region": "BR"
+    },
+    {
+        "afid": "f3864930-d69a-48b4-83b3-46dde6db79ad",
+        "region": "BR"
+    },
+    {
+        "afid": "ae7037db-cbf0-4f1c-83fc-acc5238703dd",
+        "region": "BR"
+    },
+    {
+        "afid": "c8d6ca34-6bf2-456d-905f-7bf23fa0b27b",
+        "region": "BR"
+    },
+    {
+        "afid": "1e7af814-c468-4169-9f48-4ac8706b77b3",
+        "region": "BR"
+    },
+    {
+        "afid": "75e46960-6094-494e-8b68-659ad04e1f8d",
+        "region": "BR"
+    },
+    {
+        "afid": "9bd4f98c-ef09-4bfa-a7fa-d3df68eac2e2",
+        "region": "BR"
+    },
+    {
+        "afid": "4afdcb89-85b2-4824-bda1-7f0d5914641a",
+        "region": "BR"
+    },
+    {
+        "afid": "d6b9d070-4189-4d75-8d87-684443f692ce",
+        "region": "BR"
+    },
+    {
+        "afid": "5bcf5c70-dded-4610-a5ae-e44056be7309",
+        "region": "BR"
+    },
+    {
+        "afid": "adc89775-40c8-42a0-b4c6-165ee8b30459",
+        "region": "BR"
+    },
+    {
+        "afid": "5f04cd8b-2fd2-4b18-8fba-8413fe671edc",
+        "region": "BR"
+    },
+    {
+        "afid": "37790d59-c9b4-434a-a2f1-eb61c01a8055",
+        "region": "BR"
+    },
+    {
+        "afid": "3edf88aa-e61d-4301-a96a-2d1a27d4b895",
+        "region": "BR"
+    },
+    {
+        "afid": "8cd9d178-ece3-4d8e-9695-4f45615562ba",
+        "region": "BR"
+    },
+    {
+        "afid": "78812ae4-a09a-4911-9daa-2b7878b7a6c7",
+        "region": "BR"
+    },
+    {
+        "afid": "932b34c5-f4da-4560-9167-985645183e7e",
+        "region": "BR"
+    },
+    {
+        "afid": "c81ad9fd-7317-4f2f-9d2c-d66a2b7159a9",
+        "region": "BR"
+    },
+    {
+        "afid": "444601df-a56c-45a3-b746-1e8d41b7bb27",
+        "region": "BR"
+    },
+    {
+        "afid": "f2dbebf6-9430-4256-8761-fc2e5295cd22",
+        "region": "BR"
+    },
+    {
+        "afid": "d7bbc6c0-bbb8-4f57-a621-996f816a70dc",
+        "region": "BR"
+    },
+    {
+        "afid": "3c6d0c27-4441-4da3-8813-e94f98019f3c",
+        "region": "BR"
+    },
+    {
+        "afid": "6418d68b-2f3b-4ef8-98be-c4cb0b9bdd89",
+        "region": "BR"
+    },
+    {
+        "afid": "4a1e4f2f-40ff-447c-8f53-e768daa9d61d",
+        "region": "BR"
+    },
+    {
+        "afid": "53cecd28-89cf-4485-a862-f9e8350fea5c",
+        "region": "BR"
+    },
+    {
+        "afid": "3dc6fd4c-983d-46a1-bac1-b32831f656c0",
+        "region": "BR"
+    },
+    {
+        "afid": "ab933707-dd14-4cd4-90a0-4df9b0bc7828",
+        "region": "BR"
+    },
+    {
+        "afid": "0f15ec11-f31b-4534-8ffc-6209c220189d",
+        "region": "BR"
+    },
+    {
+        "afid": "d9f70572-ff52-4b96-8e07-85b115374cfd",
+        "region": "BR"
+    },
+    {
+        "afid": "e2624a20-40b5-45aa-9860-7db7d183a0fc",
+        "region": "BR"
+    },
+    {
+        "afid": "a08baa26-44cf-43b1-a81b-fdd5f45fee48",
+        "region": "BR"
+    },
+    {
+        "afid": "9662d36d-b7c3-4049-b7b7-9f402ea56362",
+        "region": "BR"
+    },
+    {
+        "afid": "cd22b856-66e8-4372-a39f-97b04e34890c",
+        "region": "BR"
+    },
+    {
+        "afid": "6d514572-764f-4b73-a5fb-418da4e4e96a",
+        "region": "BR"
+    },
+    {
+        "afid": "5548a484-76e8-4609-8456-e55efcec8b53",
+        "region": "BR"
+    },
+    {
+        "afid": "e8e536b3-15bd-4053-8c2f-7b86dd59521e",
+        "region": "BR"
+    },
+    {
+        "afid": "663ed762-91ca-4ce9-96d9-d123136ac337",
+        "region": "BR"
+    },
+    {
+        "afid": "76096d01-f616-4d84-bbdc-85581884d50b",
+        "region": "BR"
+    },
+    {
+        "afid": "9f8b4f5d-7dd4-4f9b-b2a3-915dccc2861e",
+        "region": "BR"
+    },
+    {
+        "afid": "c396e8b4-d831-4746-a925-b948c0bd25b9",
+        "region": "BR"
+    },
+    {
+        "afid": "4f47a8f9-7cc7-4445-94db-a5d9f3dcf76b",
+        "region": "BR"
+    },
+    {
+        "afid": "c0e3d24c-5519-456a-80fd-d16c84338e11",
+        "region": "BR"
+    },
+    {
+        "afid": "00e50092-504b-496d-80ab-117f06f0429f",
+        "region": "BR"
+    },
+    {
+        "afid": "86445cd0-fe60-44f7-b11e-1dc8e1d9079e",
+        "region": "BR"
+    },
+    {
+        "afid": "e8502d21-b4f0-413f-884d-5f4736f77c9b",
+        "region": "BR"
+    },
+    {
+        "afid": "8f03392b-7cba-40f8-bf8e-76b277870cfe",
+        "region": "BR"
+    },
+    {
+        "afid": "b587dad1-3a00-4a5e-8ac7-c9884c095763",
+        "region": "BR"
+    },
+    {
+        "afid": "11e76f17-88c7-46a3-a0de-70fcd960f539",
+        "region": "BR"
+    },
+    {
+        "afid": "2de3678d-186c-4267-95c1-208a89b89000",
+        "region": "BR"
+    },
+    {
+        "afid": "eebdb2e1-f063-4b42-a3ca-22492ad0f4b6",
+        "region": "BR"
+    },
+    {
+        "afid": "122285f4-13e2-42cf-9fe3-08482c9d2cc6",
+        "region": "BR"
+    },
+    {
+        "afid": "6614b229-2e3d-428d-a7dd-dec2151548ae",
+        "region": "BR"
+    },
+    {
+        "afid": "01edcac2-f7d3-45e5-9a1f-ea93c3e3cce0",
+        "region": "BR"
+    },
+    {
+        "afid": "98fddf8d-4c8d-4ef3-b349-afffe79e4dbf",
+        "region": "BR"
+    },
+    {
+        "afid": "12ab2632-1836-40ea-8a8c-a76802c33aa0",
+        "region": "BR"
+    },
+    {
+        "afid": "ea19eecb-6d17-420f-b1ea-e1ced1c9f746",
+        "region": "BR"
+    },
+    {
+        "afid": "6c15feca-20b2-4240-9214-6636f015e05a",
+        "region": "BR"
+    },
+    {
+        "afid": "90e441db-e561-4500-9215-d78830eee3b4",
+        "region": "BR"
+    },
+    {
+        "afid": "158b010d-723a-4217-a0be-5d09b6546d08",
+        "region": "BR"
+    },
+    {
+        "afid": "be6708de-f543-427d-8198-be147bd316c9",
+        "region": "BR"
+    },
+    {
+        "afid": "71b0f207-1f44-4275-8b73-63d28957e537",
+        "region": "BR"
+    },
+    {
+        "afid": "8336604e-f8c5-49ed-9864-cb61f416d514",
+        "region": "BR"
+    },
+    {
+        "afid": "2c5e66f7-1d9b-45bc-ae98-f8e2b80b0836",
+        "region": "BR"
+    },
+    {
+        "afid": "23341b9c-2f3c-4cba-b87a-07be606b2f8d",
+        "region": "BR"
+    },
+    {
+        "afid": "bf24fa8c-7650-4daa-b86b-606d47c5918c",
+        "region": "BR"
+    },
+    {
+        "afid": "ab9e34a2-4137-4b0f-a8fe-d0492bbaf4ec",
+        "region": "BR"
+    },
+    {
+        "afid": "7409caa4-7156-4b5b-834a-3c25370f2e7a",
+        "region": "BR"
+    },
+    {
+        "afid": "e79317c1-830a-421d-a9d4-35d6336167b4",
+        "region": "BR"
+    },
+    {
+        "afid": "4a067ce1-a19e-4cd7-ac0b-dbdc9b8ea2d0",
+        "region": "BR"
+    },
+    {
+        "afid": "52394c97-0536-4e13-8f1b-581899773423",
+        "region": "BR"
+    },
+    {
+        "afid": "402d841d-0278-428d-ba7c-a37ff4159da7",
+        "region": "BR"
+    },
+    {
+        "afid": "50dd0bc5-5245-4880-973b-48d27810c3a2",
+        "region": "BR"
+    },
+    {
+        "afid": "12425e51-373f-4ebc-8c12-288eb18244d6",
+        "region": "BR"
+    },
+    {
+        "afid": "39104c23-f533-46eb-a012-8f2ab05f0abc",
+        "region": "BR"
+    },
+    {
+        "afid": "dbae1f2e-f699-495f-90bf-0c2650c04660",
+        "region": "BR"
+    },
+    {
+        "afid": "59c3fce3-8d12-4949-b63a-cb30304b953e",
+        "region": "BR"
+    },
+    {
+        "afid": "96134e22-517e-42dc-9a11-ed5e56d66b48",
+        "region": "BR"
+    },
+    {
+        "afid": "302e165e-bc25-44c1-ab7e-8cb9d7b1eb7b",
+        "region": "BR"
+    },
+    {
+        "afid": "8d51e004-60ef-4570-8178-abb9635c7282",
+        "region": "BR"
+    },
+    {
+        "afid": "f6491aa8-3b9f-47c4-850a-c6e2aa89b8e1",
+        "region": "BR"
+    },
+    {
+        "afid": "b0551357-a2dc-4784-97be-c6f1e98936cb",
+        "region": "BR"
+    },
+    {
+        "afid": "d2baea91-909c-4e81-865a-43b64b84a725",
+        "region": "BR"
+    },
+    {
+        "afid": "384a0ea6-f961-4911-b2bb-b334d4e94540",
+        "region": "BR"
+    },
+    {
+        "afid": "a9917280-b048-40b8-babd-954191c78234",
+        "region": "BR"
+    },
+    {
+        "afid": "be2b8ab5-fdc1-44b6-a659-ae834227fe47",
+        "region": "BR"
+    },
+    {
+        "afid": "3e91f3d9-159a-4504-9ef4-9a66f84731f6",
+        "region": "BR"
+    },
+    {
+        "afid": "13b2ff12-11a4-43f1-96d4-baf810b2c482",
+        "region": "BR"
+    },
+    {
+        "afid": "4b1bd8e2-262f-4b07-989d-d18fcd106748",
+        "region": "BR"
+    },
+    {
+        "afid": "ee57020421dd5ecafea269b476934291",
+        "region": "BR"
+    }
+]
