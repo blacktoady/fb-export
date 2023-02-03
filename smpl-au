@@ -1,0 +1,722 @@
+[
+    {
+        "afid": "ad80606a-7641-464d-b920-187a9997f269",
+        "region": "AU"
+    },
+    {
+        "afid": "101ee86d-4f10-44d3-9cc1-74bde9f52167",
+        "region": "AU"
+    },
+    {
+        "afid": "c2afc2ef-59bf-4d5e-9f6f-d96e8854f536",
+        "region": "AU"
+    },
+    {
+        "afid": "581ea920-be58-41e1-805b-fa05ae8be885",
+        "region": "AU"
+    },
+    {
+        "afid": "da517acd-279f-46dc-a9fc-8624853b13ba",
+        "region": "AU"
+    },
+    {
+        "afid": "6429127d-2728-4c98-8eb5-9e3776323a90",
+        "region": "AU"
+    },
+    {
+        "afid": "50f37b4f-aee5-43ef-8acb-d4fec5cbbe46",
+        "region": "AU"
+    },
+    {
+        "afid": "9f2c308b-cbd5-4352-b399-9ec5dd15cd05",
+        "region": "AU"
+    },
+    {
+        "afid": "db05ad4f-134c-44ad-b6e3-78275fe94902",
+        "region": "AU"
+    },
+    {
+        "afid": "9875a81d-8640-4754-8d0e-2419f24a1442",
+        "region": "AU"
+    },
+    {
+        "afid": "591fba5d-f004-4da1-b347-2ce7c9a4defd",
+        "region": "AU"
+    },
+    {
+        "afid": "b47556b9-bbfb-42a8-9be1-866696972d10",
+        "region": "AU"
+    },
+    {
+        "afid": "237b9d61-0e14-4bda-b5cd-6b2fa1f7a5fe",
+        "region": "AU"
+    },
+    {
+        "afid": "6e2981c8-aad0-420e-879b-3219f73d374a",
+        "region": "AU"
+    },
+    {
+        "afid": "7da64689-cf08-49e0-983a-edb07d26bdee",
+        "region": "AU"
+    },
+    {
+        "afid": "c7e8c6a6-e9a4-4d90-be6e-681c080bd232",
+        "region": "AU"
+    },
+    {
+        "afid": "ce9e4998-486e-44f7-a26d-ff805a5e32a2",
+        "region": "AU"
+    },
+    {
+        "afid": "c9b1b8c2-8691-4c3f-906f-4aa680b85ec0",
+        "region": "AU"
+    },
+    {
+        "afid": "00000000-0000-0000-0000-000000000000",
+        "region": "AU"
+    },
+    {
+        "afid": "c9d67001-9ce8-4855-bacc-ec9141feaf14",
+        "region": "AU"
+    },
+    {
+        "afid": "ab36bedb-04d1-4d61-a2ff-d923a463e27a",
+        "region": "AU"
+    },
+    {
+        "afid": "091596c0-4882-4cd9-882c-a67cdd7ca9c3",
+        "region": "AU"
+    },
+    {
+        "afid": "4a1da199-26fd-478f-ba64-9625053e846a",
+        "region": "AU"
+    },
+    {
+        "afid": "8648d144-a0cc-49ee-a627-4c38412c9c12",
+        "region": "AU"
+    },
+    {
+        "afid": "0e2cc267-53c9-4303-9b3b-ddbddd24b6c0",
+        "region": "AU"
+    },
+    {
+        "afid": "99649594-428e-494b-98ad-8888729d206c",
+        "region": "AU"
+    },
+    {
+        "afid": "a7eb307a-cf32-4162-9643-90f3dddba7f4",
+        "region": "AU"
+    },
+    {
+        "afid": "046463c4-bf50-4baf-89d7-962de014c2d3",
+        "region": "AU"
+    },
+    {
+        "afid": "37d8b562-f95b-4be4-8ec6-1317aa162a26",
+        "region": "AU"
+    },
+    {
+        "afid": "6b780d92-b8a7-46ff-b63d-17ab81553bc9",
+        "region": "AU"
+    },
+    {
+        "afid": "7c1a9eea-a3a5-4cdb-9ff2-d11e53f05896",
+        "region": "AU"
+    },
+    {
+        "afid": "3868403a-a2ea-485d-8223-975f539210cc",
+        "region": "AU"
+    },
+    {
+        "afid": "3ca590b9-1674-4714-9c5d-ff095680d1b8",
+        "region": "AU"
+    },
+    {
+        "afid": "b7196d74-8be6-4f60-a40d-0041443b66bd",
+        "region": "AU"
+    },
+    {
+        "afid": "b23cfccc-79d4-4a1e-96ef-c2d40392cce1",
+        "region": "AU"
+    },
+    {
+        "afid": "18815920-06e2-4e24-b78f-a00a1bac77d5",
+        "region": "AU"
+    },
+    {
+        "afid": "15408df6-26e3-4c3c-a82e-6f9541b6bf34",
+        "region": "AU"
+    },
+    {
+        "afid": "8d8626fc-87ae-46db-ba3e-e96dccfceb0f",
+        "region": "AU"
+    },
+    {
+        "afid": "a4473480-4d6a-44d9-9145-517150bf0680",
+        "region": "AU"
+    },
+    {
+        "afid": "44f3ec08-4f35-4cf2-a432-90181aae1962",
+        "region": "AU"
+    },
+    {
+        "afid": "88477482-8e0f-4198-854e-4c849c1367f5",
+        "region": "AU"
+    },
+    {
+        "afid": "d1afaf58-1125-419d-b856-b79c48bfed6e",
+        "region": "AU"
+    },
+    {
+        "afid": "387fef4b-2166-4b8c-a50e-c1c1a6203a71",
+        "region": "AU"
+    },
+    {
+        "afid": "907e59c9-0b0e-480c-bf35-873db1e4c6ff",
+        "region": "AU"
+    },
+    {
+        "afid": "d7cbcecf-462d-4c1b-80dd-1a076a711305",
+        "region": "AU"
+    },
+    {
+        "afid": "00000000-0000-0000-0000-000000000000",
+        "region": "AU"
+    },
+    {
+        "afid": "26a6258f-72be-4443-957f-3c1463f686ac",
+        "region": "AU"
+    },
+    {
+        "afid": "f4dcb7e4-ad89-4256-8a5c-41fda2ee305c",
+        "region": "AU"
+    },
+    {
+        "afid": "66408309-22b4-4105-a94b-40bac543871d",
+        "region": "AU"
+    },
+    {
+        "afid": "93950fed-c363-4141-857b-06baac06b5f7",
+        "region": "AU"
+    },
+    {
+        "afid": "26cbb380-4e01-4f64-b0ab-acc3b931baa3",
+        "region": "AU"
+    },
+    {
+        "afid": "ed169f10-5bc0-4d62-9541-f7fa29b298c2",
+        "region": "AU"
+    },
+    {
+        "afid": "b8739fb5-b483-4d67-bbf2-1b76432bccc9",
+        "region": "AU"
+    },
+    {
+        "afid": "558c199c-0632-4749-ae5a-d0510379a314",
+        "region": "AU"
+    },
+    {
+        "afid": "a148577d-c48f-4f3e-97f1-f2ef35fb13a0",
+        "region": "AU"
+    },
+    {
+        "afid": "4f5ac2e9-5ff1-4737-8761-26c1d964b60f",
+        "region": "AU"
+    },
+    {
+        "afid": "917a6dd3-ab3b-4918-a2f0-a49d30948cde",
+        "region": "AU"
+    },
+    {
+        "afid": "74edc533-fdc3-4747-a6f1-6e8d8a57cfe9",
+        "region": "AU"
+    },
+    {
+        "afid": "8bfc7e88-dbcb-4199-9ee9-69d966099777",
+        "region": "AU"
+    },
+    {
+        "afid": "880039d9-cee3-439d-875b-e0cd23a715ab",
+        "region": "AU"
+    },
+    {
+        "afid": "fdfdb39a-940e-423e-b97e-a01615a7542b",
+        "region": "AU"
+    },
+    {
+        "afid": "7c61b274-3f5b-4cf2-8d03-f44de8a996b7",
+        "region": "AU"
+    },
+    {
+        "afid": "097878b0-c42b-42c2-bc5a-d8319d7a09e4",
+        "region": "AU"
+    },
+    {
+        "afid": "7b92f042-a978-4e73-8567-d0f544622077",
+        "region": "AU"
+    },
+    {
+        "afid": "4c576472-f318-4a16-87df-2edcf9eef21d",
+        "region": "AU"
+    },
+    {
+        "afid": "d045722c-35ff-4e6c-8ea1-cbfd745bab21",
+        "region": "AU"
+    },
+    {
+        "afid": "cbcdde10-1012-4999-9770-d6a7d1defeb5",
+        "region": "AU"
+    },
+    {
+        "afid": "d42b37f8-9a9a-49da-87c9-a5b2f88fcd78",
+        "region": "AU"
+    },
+    {
+        "afid": "2fb6bf6d-c8df-4f54-9b55-deabc3a0ba27",
+        "region": "AU"
+    },
+    {
+        "afid": "04c019b8-2450-4bfc-bbf4-51023339a0a8",
+        "region": "AU"
+    },
+    {
+        "afid": "dd827755-cf1a-472c-8d77-822314a930f4",
+        "region": "AU"
+    },
+    {
+        "afid": "82f3280f-3ce8-4988-80ad-9992437c2d61",
+        "region": "AU"
+    },
+    {
+        "afid": "20c29881-e8f4-433e-8977-e7cc8c1b4e14",
+        "region": "AU"
+    },
+    {
+        "afid": "143826c2-693e-4c8c-8309-48c79973ef54",
+        "region": "AU"
+    },
+    {
+        "afid": "6b4505d3-d39a-4b46-988d-6dedf01eb3f8",
+        "region": "AU"
+    },
+    {
+        "afid": "b045a29c-bdeb-49ca-a1af-d7584a42332c",
+        "region": "AU"
+    },
+    {
+        "afid": "9a2100e5-c1a8-4943-9445-f058f763889c",
+        "region": "AU"
+    },
+    {
+        "afid": "c5ab6fbc-d8a3-4a2e-a460-5ce3b2364218",
+        "region": "AU"
+    },
+    {
+        "afid": "fe2bb7ec-74d2-4422-9f0e-d557cdd12686",
+        "region": "AU"
+    },
+    {
+        "afid": "140b2305-6bde-4c55-a2b0-e2cb7c59470f",
+        "region": "AU"
+    },
+    {
+        "afid": "1d893960-7172-4318-8703-d0b0b31d382a",
+        "region": "AU"
+    },
+    {
+        "afid": "8195e676-31d3-49b0-b29d-4d38174aeb52",
+        "region": "AU"
+    },
+    {
+        "afid": "b652f151-34db-42bc-a0e3-9dce9c49c404",
+        "region": "AU"
+    },
+    {
+        "afid": "b9273b2a-5147-4bc2-96d1-58115f286685",
+        "region": "AU"
+    },
+    {
+        "afid": "f053c520-43c2-4530-bb3f-02a1bef10cad",
+        "region": "AU"
+    },
+    {
+        "afid": "85cc7b5c-e720-46f4-b7b8-2c626009571c",
+        "region": "AU"
+    },
+    {
+        "afid": "af5c3473-751e-422b-89e4-4245e64e72a3",
+        "region": "AU"
+    },
+    {
+        "afid": "f1843e17-9ce7-4749-826c-bdddf0088b72",
+        "region": "AU"
+    },
+    {
+        "afid": "ae805791-5be6-4ea3-b2d7-04a3641a9ad9",
+        "region": "AU"
+    },
+    {
+        "afid": "441f54ec-02ea-4606-ae67-4987f1807ae2",
+        "region": "AU"
+    },
+    {
+        "afid": "bad80035-c014-4149-838f-a1ec985a4111",
+        "region": "AU"
+    },
+    {
+        "afid": "19924de8-43bb-449b-927f-dd55efe31bbf",
+        "region": "AU"
+    },
+    {
+        "afid": "f1cc97fd-a748-4c6d-bbec-d562c305023b",
+        "region": "AU"
+    },
+    {
+        "afid": "bd697128-6b4a-42ad-a413-26003175b4a8",
+        "region": "AU"
+    },
+    {
+        "afid": "2d3ad4b4-69d8-4fc7-bc96-3971db302695",
+        "region": "AU"
+    },
+    {
+        "afid": "4f24cbd0-ff4d-44b6-8712-27d645dba2ed",
+        "region": "AU"
+    },
+    {
+        "afid": "d999f8a0-ae9b-4e83-82b6-c1bb03e71356",
+        "region": "AU"
+    },
+    {
+        "afid": "4641da7d-42c7-4184-997b-f8d5df2f1632",
+        "region": "AU"
+    },
+    {
+        "afid": "87a94ba1-222b-4914-b3e8-e09674d91b1c",
+        "region": "AU"
+    },
+    {
+        "afid": "1199fc01-3617-414d-b290-dbebd9faf751",
+        "region": "AU"
+    },
+    {
+        "afid": "2b570f1f-a30c-4324-8445-2c916465c2f1",
+        "region": "AU"
+    },
+    {
+        "afid": "90f819a7-3df5-4eaf-b870-6593911bd828",
+        "region": "AU"
+    },
+    {
+        "afid": "93344d52-b2fb-4df6-b327-4a193cab986e",
+        "region": "AU"
+    },
+    {
+        "afid": "1e136c2c-37bd-43f0-ad39-c7d13b1d3a69",
+        "region": "AU"
+    },
+    {
+        "afid": "6d9bb3f3-54f6-429c-bc65-2834c851e094",
+        "region": "AU"
+    },
+    {
+        "afid": "84238439-f849-4ee3-b984-f47732dd641c",
+        "region": "AU"
+    },
+    {
+        "afid": "1a68c671-784f-4ac8-a4d3-694ec3e203cb",
+        "region": "AU"
+    },
+    {
+        "afid": "6e11613f-3836-4e30-98cc-d14cb79c7ddf",
+        "region": "AU"
+    },
+    {
+        "afid": "03009022-186a-4e2f-995c-99088ffe4a7d",
+        "region": "AU"
+    },
+    {
+        "afid": "2be54522-d732-41e3-a0f3-3af88aba2e34",
+        "region": "AU"
+    },
+    {
+        "afid": "5f664d8c-f2df-4cc0-a031-56fa8a04a94f",
+        "region": "AU"
+    },
+    {
+        "afid": "4a251757-f3c9-4955-abe1-dba6dd3e18d9",
+        "region": "AU"
+    },
+    {
+        "afid": "fd635082-1ec1-4a42-9cc5-4077fa4de04b",
+        "region": "AU"
+    },
+    {
+        "afid": "d082a700-0bd9-4e83-b371-b0b6703bc0f8",
+        "region": "AU"
+    },
+    {
+        "afid": "47a7c428-8853-4453-bb69-4bf64c80e7ca",
+        "region": "AU"
+    },
+    {
+        "afid": "58848501-ce1b-4887-84e6-baeefbba22d1",
+        "region": "AU"
+    },
+    {
+        "afid": "919aff42-1eb9-41ca-85f7-d1b72dd0ec04",
+        "region": "AU"
+    },
+    {
+        "afid": "536e3123-13ee-4e1e-84bc-763bea7d7171",
+        "region": "AU"
+    },
+    {
+        "afid": "b9f07da8-6cd6-4446-8bb5-701de8cd477f",
+        "region": "AU"
+    },
+    {
+        "afid": "b4472640-1db6-4139-8680-e5e922827c94",
+        "region": "AU"
+    },
+    {
+        "afid": "b20a2c7e-6001-476b-bc5b-9fab3da5e66d",
+        "region": "AU"
+    },
+    {
+        "afid": "30fbc2db-c358-440d-aa27-701035f38892",
+        "region": "AU"
+    },
+    {
+        "afid": "d1282579-a1bd-4d9d-8809-785cd2dd8424",
+        "region": "AU"
+    },
+    {
+        "afid": "c1f04d28-6a11-4ab9-bdae-c8bb14cb7461",
+        "region": "AU"
+    },
+    {
+        "afid": "be385c4e-f257-4345-ac64-10cfca775eb0",
+        "region": "AU"
+    },
+    {
+        "afid": "6e48c9fe-823a-480b-9d76-aea6f5b7315e",
+        "region": "AU"
+    },
+    {
+        "afid": "5828df32-6b04-483d-8d2f-4799d4fd0768",
+        "region": "AU"
+    },
+    {
+        "afid": "835d7b1a-fb39-4025-808d-90f02c0603b1",
+        "region": "AU"
+    },
+    {
+        "afid": "eae2cf6b-ea54-4af9-aa8e-0a6a65d92393",
+        "region": "AU"
+    },
+    {
+        "afid": "1825a979-8a2d-4c35-9b59-03a41207dd64",
+        "region": "AU"
+    },
+    {
+        "afid": "32950f8a-5a06-44bc-9e1f-57ef37f9343e",
+        "region": "AU"
+    },
+    {
+        "afid": "40574ff8-2bcf-4cab-9f47-cf69add8901c",
+        "region": "AU"
+    },
+    {
+        "afid": "371ab0ba-bcb3-424a-baa4-fd9196de9dec",
+        "region": "AU"
+    },
+    {
+        "afid": "263f19cd-566c-4649-8706-51e662d1181b",
+        "region": "AU"
+    },
+    {
+        "afid": "c0b92c4e-399b-40c3-855f-698a22ed7c7e",
+        "region": "AU"
+    },
+    {
+        "afid": "dd0d34fe-3489-4581-bfe1-c523c1d441eb",
+        "region": "AU"
+    },
+    {
+        "afid": "72b6d2d0-1001-40e5-bd78-ab4b3f3c4771",
+        "region": "AU"
+    },
+    {
+        "afid": "776fe23e-03fb-4e7d-9166-e824e08ceabc",
+        "region": "AU"
+    },
+    {
+        "afid": "84f8a099-b648-4532-802e-9cab97a0a618",
+        "region": "AU"
+    },
+    {
+        "afid": "1c4cc355-22fd-4762-8ae0-01b463e1fb19",
+        "region": "AU"
+    },
+    {
+        "afid": "ce33403b-d15b-43fc-beb2-c646ae467dda",
+        "region": "AU"
+    },
+    {
+        "afid": "77c039f7-1f60-4166-ac70-f5472148885b",
+        "region": "AU"
+    },
+    {
+        "afid": "dc1f5c0d-3e72-479a-9661-4980dc0e8bda",
+        "region": "AU"
+    },
+    {
+        "afid": "88ef1801-11b0-4f4e-a0b7-d81f277875ef",
+        "region": "AU"
+    },
+    {
+        "afid": "c1b15388-5687-438d-a6df-32fac8c18a2e",
+        "region": "AU"
+    },
+    {
+        "afid": "8e25308a-8493-470a-af70-bc863af24152",
+        "region": "AU"
+    },
+    {
+        "afid": "5ecb7bfe-7068-496c-8fe9-ea54ea03ec67",
+        "region": "AU"
+    },
+    {
+        "afid": "f239dd27-9ae7-46a7-8755-27120430c980",
+        "region": "AU"
+    },
+    {
+        "afid": "e03112e3-d762-4f5c-800b-ec4a726de12b",
+        "region": "AU"
+    },
+    {
+        "afid": "36656a3d-b11b-46f0-b88b-9007273d2153",
+        "region": "AU"
+    },
+    {
+        "afid": "365b1064-c1ef-4808-9d2f-e5d04309fd1e",
+        "region": "AU"
+    },
+    {
+        "afid": "26abac4b-3985-4d07-9cfc-199912112a3c",
+        "region": "AU"
+    },
+    {
+        "afid": "6e2cdaf1-9dd1-4a7e-803e-062e736b7aac",
+        "region": "AU"
+    },
+    {
+        "afid": "5c4710c7-0bda-4040-a17f-bf9e14dd1eed",
+        "region": "AU"
+    },
+    {
+        "afid": "22f123a1-8315-441a-9eba-ea34e7b06ade",
+        "region": "AU"
+    },
+    {
+        "afid": "410fdb0c-223b-40d5-a927-00c5ecccbf77",
+        "region": "AU"
+    },
+    {
+        "afid": "3473b1f0-28bb-4ce5-941c-4d2c30d8b9eb",
+        "region": "AU"
+    },
+    {
+        "afid": "c94fff8d-01f6-4fa6-8494-6ea70a6f11e9",
+        "region": "AU"
+    },
+    {
+        "afid": "b7a2a4cb-699b-4943-8c70-d3a89af80406",
+        "region": "AU"
+    },
+    {
+        "afid": "4676d201-1c79-4924-a5c5-652856ba4f98",
+        "region": "AU"
+    },
+    {
+        "afid": "673ab5d8-b843-4112-b5e9-f70ff1efb9e9",
+        "region": "AU"
+    },
+    {
+        "afid": "9432c3be-eb5a-4123-b827-b2254cbdcbcc",
+        "region": "AU"
+    },
+    {
+        "afid": "e6adfabe-1083-457e-986c-2ab742eb0f1a",
+        "region": "AU"
+    },
+    {
+        "afid": "976ea196-4135-41d5-9f00-2010e679d479",
+        "region": "AU"
+    },
+    {
+        "afid": "6b4505d3-d39a-4b46-988d-6dedf01eb3f8",
+        "region": "AU"
+    },
+    {
+        "afid": "2704718a-6a8a-4136-8f7c-b5a3af3fe739",
+        "region": "AU"
+    },
+    {
+        "afid": "3e96e347-0a21-4500-8337-a3c4f5487d52",
+        "region": "AU"
+    },
+    {
+        "afid": "585f93f0-a2f2-4f82-9fb8-d0906d27d75f",
+        "region": "AU"
+    },
+    {
+        "afid": "54d88e31-4861-4dd4-a3d1-e7948c9d128e",
+        "region": "AU"
+    },
+    {
+        "afid": "a031bac1-33a2-4f1f-898f-b9b50a154b6f",
+        "region": "AU"
+    },
+    {
+        "afid": "c8f06b28-5b0b-4aee-84fd-53f334da319b",
+        "region": "AU"
+    },
+    {
+        "afid": "17778e76-7692-4e44-928b-8d35e0dadfd4",
+        "region": "AU"
+    },
+    {
+        "afid": "df1a0951-e9ef-451b-b59b-8efbf70544f0",
+        "region": "AU"
+    },
+    {
+        "afid": "aa6e3394-a990-47cf-a84f-49634b40133e",
+        "region": "AU"
+    },
+    {
+        "afid": "239d90cf-8060-408f-b360-d0375fe9f95a",
+        "region": "AU"
+    },
+    {
+        "afid": "d1aa6cfb-4299-449b-9272-4a6fedb7d907",
+        "region": "AU"
+    },
+    {
+        "afid": "5d41df3c-01f8-420a-9135-205717a2f987",
+        "region": "AU"
+    },
+    {
+        "afid": "1cd8e5d5-5da4-440f-bcda-44e308812ac0",
+        "region": "AU"
+    },
+    {
+        "afid": "4a8eb5f4-560c-41a2-9d5f-612cae7eabc3",
+        "region": "AU"
+    },
+    {
+        "afid": "f915a1b1-9919-4a7f-83ff-8ba77c471314",
+        "region": "AU"
+    }
+]
